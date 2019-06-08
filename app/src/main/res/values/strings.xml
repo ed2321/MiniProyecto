@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="new_contact">Nuevo Contacto</string>
+    <string name="share">Buscar Contacto...</string>
+
+    <string name="Switch">Switch</string>
+
+
+    //vista detalle
+    <string name="Empresa">Empresa</string>
+    <string name="Edad">Edad</string>
+    <string name="Peso">Peso</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Direccdion">Direccion</string>
+    <string name="Nuevo_Contacto">Nuevo Contacto</string>
+    <string name="Eliminar">Eliminar Contacto</string>
+    <string name="Editar">Editar Contacto</string>
+
+
+</resources>
